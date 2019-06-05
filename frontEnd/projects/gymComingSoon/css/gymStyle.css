@@ -1,0 +1,42 @@
+body{
+    background: url(../images/bgGymEdited.jpg) no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+}
+
+div{
+    background-color:rgb(73,80,87,.5);
+    width: 100%;
+    margin: 100px 0 auto 0;     ;
+    text-align: center;
+    /* opacity: .8; */
+    /* fill-opacity: .8; */
+    /* flood-opacity: .8; */
+    /* border-radius: 25px; */
+}
+
+button{
+    background: rgb(51,154,240,.5);
+    padding: 5px 20px 5px 20px ;
+    color:maroon;
+    font-size: 2em;
+    border: 1px, lightblue solid;
+    /* border-radius: 10px; */
+}
+
+h1{
+    font-size: 4em;
+    font-family: 'Ramabhadra', sans-serif;
+    margin: 0;
+    padding: 0px;
+    opacity: initial;
+}
+p{
+    font-size: 1.8em;
+    margin-top: 0px;
+    font-family: 'Ramabhadra', sans-serif;
+}
+
+i{
+    font-size: 3em;
+}

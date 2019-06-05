@@ -1,0 +1,34 @@
+
+
+a{
+    font-size: 35PX;
+}
+
+
+/* There is a proper order is css which you should keep in mind while */
+/* giving a style to a link. So remember it */
+
+/* order: 1.editing the link itself -> color, underline, text etc
+          2. What happens when the link is visited
+          3. What happens when the link is hovered upon
+          4. What happens when it is active on in the phase 
+              when somebody is clicking on it */
+
+a:link, a:hover{
+    background-color: hotpink;
+    color: white;
+    padding: 15px  25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}              
+
+
+
+a:hover{
+    color: darkblue;
+}
+
+a:active{
+    color: black; 
+}

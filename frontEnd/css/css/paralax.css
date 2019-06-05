@@ -1,0 +1,26 @@
+
+div{
+    height: 500px;
+    /* background-color: grey; */
+    /* padding-top: 150px;  */
+    /* z-index: 1; */
+    color:indigo;
+    padding: 0;
+    margin: 0;
+}
+
+.blue{
+    /* height: 200px; */
+    background-color: skyblue;
+}
+
+h1{
+    padding-top: 150px;
+    margin: 0;
+    text-align: center;
+    /* z-index: 2; */
+}
+p{
+    text-align: center;
+    /* z-index: 2; */
+}

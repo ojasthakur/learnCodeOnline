@@ -1,0 +1,35 @@
+/*body{
+    background-image:  url("../images/bg1.png");
+    background-repeat:  repeat
+} */  
+
+/* whenver you want an image as a background or something like that */
+/* keep this code saved and use it */
+
+body{
+    background: url(../images/bgGirl1.jpg)
+    no-repeat, center, center, fixed;
+    background-size: cover;
+    
+
+}
+div{
+    background: #C09E61;
+}
+h1{
+    color:black;
+    text-align: center;
+    color: #131C1E;
+    width: 500px;
+    padding: 20px;
+    
+    margin: 0 auto;
+    margin-top: 200px;
+
+    
+    font-family: 'Amatic SC', cursive;
+
+    font-size: 3em;
+
+
+}

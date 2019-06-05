@@ -1,0 +1,15 @@
+div{
+    height: 100px;
+    background-color: green;
+}
+
+#black{
+    background-color: black;
+    
+}
+
+#pink{
+    background-color: hotpink;
+    color: white;
+    text-align: center;
+}
