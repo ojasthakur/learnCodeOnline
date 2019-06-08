@@ -18,3 +18,34 @@ body{
     background-position: center;
     font-family: Catamaran;
 }
+
+.center{
+    text-align: center;
+    padding-top: 15%
+}
+
+h1,  p{
+    color: white;
+}
+
+.fa-circle-notch{
+    /* color: blue; */
+    font-size: 2em;
+}
+
+
+h2 > span{
+    color: white;
+}
+
+@media(max-width: 768px){
+    h1, h2{
+        background-color: #449d44;
+    }
+}
+
+@media(min-width:768px){
+    h1,h2{
+        background-color: skyblue;
+    }
+}
